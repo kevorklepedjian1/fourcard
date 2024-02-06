@@ -45,7 +45,7 @@ function App() {
         <p className="attribution">
           Challenge by
           <a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
-            >Frontend Mentor</a>. Coded by <a href="https://tsbsankara.com">Kevork Lepedjian</a>.
+            >Frontend Mentor</a>. Coded by <a href="https://kevorklepedjian.vercel.app/">Kevork Lepedjian</a>.
         </p>
       </footer>
     </div>
